@@ -1,2 +1,5 @@
-index.css
-dest/
+# index.css
+# dest/
+# aaa.txt
+# 已经提交过的文件，修改过后，还是可以被检测到
+# 新增的文件，忽略后就无法检测到了
